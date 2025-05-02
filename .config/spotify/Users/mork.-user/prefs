@@ -1,0 +1,5 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[]"
+connect.mdns_devices="[{\"created_timestamp\":1745755679,\"device_id\":\"\",\"device_info\":{\"addresses\":[\"192.168.1.133\"],\"availability\":\"any\",\"device_type\":\"unknown\",\"get_info_json\":\"\",\"is_group\":false,\"should_send_wol\":false},\"discovery_name\":\"SpZc-6EE532._spotify-connect._tcp.local\",\"display_name\":\"\",\"hostname\":\"PS4-6EE532.local\",\"last_seen\":1745756866,\"page_uri\":\"/spConn\",\"port\":41800,\"public_ip\":\"92.178.74.192\",\"required_device_info\":{\"public_key\":\"\",\"remote_name\":\"\",\"version\":\"\"},\"ttl\":120,\"txt_records\":{\"CPath\":\"/spConn\"}}]"
+ui.minimize_to_tray=true
+app.browser.zoom-level=-200
